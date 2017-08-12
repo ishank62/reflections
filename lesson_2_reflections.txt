@@ -18,3 +18,5 @@ What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
 What happens when you initialize a repository? Why do you need to do it?
+
+How can you use the staging area to make sure you have one commit per logical change?
